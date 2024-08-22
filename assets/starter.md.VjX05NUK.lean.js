@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.-fhUMt4F.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"starter.md","filePath":"starter.md","lastUpdated":1724340518000}'),r={name:"starter.md"};function s(o,c,n,d,p,_){return a(),e("div")}const f=t(r,[["render",s]]);export{m as __pageData,f as default};
