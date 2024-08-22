@@ -1,0 +1,11 @@
+version: "3"
+services:
+  ros:
+    build:
+      context: ./dockerfiles
+      dockerfile: Dockerfile
+    restart: always
+    container_name: ros-development
+    volumes:
+      - "./:/root/project"
+    working_dir: /root/project
